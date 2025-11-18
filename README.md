@@ -1,4 +1,4 @@
-# Customer-Segmentation-using-Clustering
+
 # 🎯 Customer Segmentation using Clustering
 
 This project focuses on grouping customers based on their purchasing patterns and lifestyle attributes using unsupervised machine learning. The goal is to help businesses understand customer behavior better and build personalized marketing strategies.
